@@ -1,7 +1,7 @@
 {
-  "name": "BOTZ16",
+  "name": "X2Botz",
   "version": "0.0.2",
-  "description": "No comment",
+  "description": "Knp Om? ",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "naylachan",
+  "author": "IndzGanz",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
